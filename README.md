@@ -8,4 +8,6 @@
 
 [栈](https://blog.csdn.net/qq_38790716/article/details/86427659)
 
+[队列](https://blog.csdn.net/qq_38790716/article/details/86476798)
+
 [七大排序算法](https://blog.csdn.net/qq_38790716/column/info/32567)
